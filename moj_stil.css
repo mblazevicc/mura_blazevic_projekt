@@ -1,15 +1,14 @@
 
-img.ozzy
-    {
+img.ozzy {
         position: absolute;
         top: 60px;
         right: 120px;
     }
     
-        #jahaci li{
+    #jahaci li{
             display: inline;
         }
-        #jahaci{
+    #jahaci{
             color: #000;
             border-bottom: 2px solid #8b0000;
             margin-top: 50px;
@@ -19,20 +18,20 @@ img.ozzy
             padding: 1px;
             padding-left: 30px;
         }
-        #jahaci li a{
+     #jahaci li a{
             color: #000;
             background: #d9dbe1;
             border: 2px solid #8b0000;
             padding: 3px 5px 1px 5px;
             margin:0px;
             text-decoration: none;
-        }
-        #jahaci li a:hover{
+    }
+    #jahaci li a:hover{
             border-bottom-color:white;
             background-color: #eee;
             color: #445372;
-        }
-        #jahaci li a:active{
+    }
+    #jahaci li a:active{
             color: #c00;
         }
 
