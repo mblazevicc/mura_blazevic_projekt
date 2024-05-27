@@ -1,6 +1,5 @@
-body
-{ 
-    img.ozzy
+
+img.ozzy
     {
         position: absolute;
         top: 60px;
@@ -37,4 +36,4 @@ body
             color: #c00;
         }
 
-}
+
