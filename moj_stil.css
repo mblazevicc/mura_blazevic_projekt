@@ -1,8 +1,9 @@
 body
 { 
-    background-image: url("ozzy.jpg"); 
-    background-position-y: top;
-    background-position-x: right;
-    background-repeat: no-repeat;
-    text-align: justify;
+    img.ozzy.jpg
+    {
+        position: absolute;
+        top: 60px;
+        right: 120px;
+    }
 }
