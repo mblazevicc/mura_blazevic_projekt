@@ -3,6 +3,12 @@ body {
         font-family: Arial, sans-serif;
  
     background-color: #f0f0f0; 
+  
+    background-image: url("members.jpg"); 
+    background-position-y: top;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    text-align: justify;
 
 }
 
