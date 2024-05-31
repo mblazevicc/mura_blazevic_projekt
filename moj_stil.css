@@ -37,7 +37,8 @@ ul {
     #jahaci {
             display: flex;
             justify-content: space-around;
-            color: #000;
+            color: #fff;
+            background-color: #333;
             border-bottom: 2px solid #808080;
             margin-top: 50px;
             margin-right: 0px;
@@ -53,7 +54,7 @@ ul {
  }
 
 #jahaci li a {
-    color: #000;
+    color: #fff;
     background: #ffffff;
     border: 2px solid #808080;
     padding: 3px 5px 1px 5px;
