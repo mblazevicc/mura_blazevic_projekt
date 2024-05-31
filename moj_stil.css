@@ -21,6 +21,14 @@ p.natuknica1 {
         margin: 10px 0;
 }
 
+img.desna {
+    float: right; 
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+
 
     #jahaci {
             display: flex;
