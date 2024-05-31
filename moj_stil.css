@@ -1,7 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
         font-family: Arial, sans-serif;
- 
-    background-color: #f0f0f0; 
+         padding: 20px;
+        background-color: #f0f0f0; 
 
 }
 
@@ -11,6 +18,7 @@ h3.podnaslov1{
 
 p.natuknica1 {
         text-align: center;
+        margin: 10px 0;
 }
 
 
@@ -18,8 +26,9 @@ p.natuknica1 {
 }
 
 img.desna {
-      float:right; 
-         margin-left: 10px; 
+    float: right; 
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 
@@ -65,8 +74,7 @@ img.desna {
 
 h1.naslov{
         text-align: center;
-    margin-top: 20px;
-  
+        margin-top: 20px;
         color: #000;
 }
 
