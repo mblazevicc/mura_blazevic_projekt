@@ -80,19 +80,6 @@ h1.naslov{
 
 
 
-.centrirana-lista {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
-ul.centar {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-}
-
 
 
 
