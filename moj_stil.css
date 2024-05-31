@@ -4,15 +4,17 @@ body {
 }
 
 img.clanovi{
-
+         position: absolute;
+        top: 150px;
+        right: 300px;
 
         
 }
 
 img.ozzy {
         position: absolute;
-        top: 90px;
-        right: 200px;
+        top: 150px;
+        right: 300px;
     }
 
 
