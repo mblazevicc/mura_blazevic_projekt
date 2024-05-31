@@ -10,13 +10,7 @@ img.ozzy {
         right: 120px;
     }
 
-img.naslov_pozadina {
-         display: block;
-            margin: 0 auto;
-            margin-top: 20px;
-            width: 100%;
-                height: auto;
-    }
+
     
     #jahaci {
             display: flex;
@@ -60,6 +54,6 @@ img.naslov_pozadina {
 h1.naslov{
         text-align: center;
     margin-top: 20px;
-         font-size: 2em;
+  
         color: #fff;
 }
