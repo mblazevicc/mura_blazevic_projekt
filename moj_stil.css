@@ -5,10 +5,9 @@ img.ozzy {
         right: 120px;
     }
     
-    #jahaci li{
-            display: inline;
-        }
-    #jahaci{
+    #jahaci {
+            display: flex;
+            justify-content: space-around;
             color: #000;
             border-bottom: 2px solid #808080;
             margin-top: 50px;
@@ -17,22 +16,29 @@ img.ozzy {
             margin-left: 0px;
             padding: 1px;
             padding-left: 30px;
-        }
-     #jahaci li a{
-            color: #000;
-            background: #000000;
-            border: 2px solid #808080
-            padding: 3px 5px 1px 5px;
-            margin:0px;
-            text-decoration: none;
+            list-style: none;
     }
-    #jahaci li a:hover{
-            border-bottom-color:white;
-            background-color: #eee;
-            color: #000000;
-    }
-    #jahaci li a:active{
-            color: #000000;
-        }
+ #jahaci li {
+    flex-grow: 1;
+    text-align: center;
+ }
 
+#jahaci li a {
+    color: #000;
+    background: #ffffff;
+    border: 2px solid #808080;
+    padding: 3px 5px 1px 5px;
+    margin: 0px;
+    text-decoration: none;
+    display: block; 
+}
 
+#jahaci li a:hover {
+    border-bottom-color: white;
+    background-color: #eee;
+    color: #000000;
+}
+
+#jahaci li a:active {
+    color: #000000;
+}
