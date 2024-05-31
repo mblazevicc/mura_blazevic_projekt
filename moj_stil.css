@@ -140,15 +140,15 @@ h1.naslov{
 .item-1 {
     z-index: 2;
     opacity: 1;
-  background:url('https://static.pexels.com/photos/6526/sea-beach-holiday-vacation-large.jpg');
+  background:url('https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg');
   background-size:cover;
   }
 .item-2{
-  background:url('https://static.pexels.com/photos/6506/alcohol-bar-drinks-party-large.jpg');
+  background:url('https://upload.wikimedia.org/wikipedia/en/d/da/Black_Sabbath_debut_album.jpg');
    background-size:cover;
 }
 .item-3{
-  background:url('https://static.pexels.com/photos/6529/lake-kajak-kayak-large.jpg');
+  background:url('https://upload.wikimedia.org/wikipedia/en/4/40/Bsmor.jpg');
    background-size:cover;
 }
 
