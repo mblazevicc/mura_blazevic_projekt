@@ -22,17 +22,6 @@ p.natuknica1 {
 }
 
 
-        
-}
-
-img.desna {
-    float: right; 
-    margin-left: 10px;
-    margin-bottom: 10px;
-}
-
-
-    
     #jahaci {
             display: flex;
             justify-content: space-around;
@@ -137,7 +126,7 @@ h1.naslov{
     }
 }
 
-/*Select every element*/
+
 [id^="item"] {
     display: none;
   }
@@ -170,6 +159,31 @@ h1.naslov{
     opacity: 1;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
