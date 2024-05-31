@@ -23,9 +23,7 @@ img.clanovi{
 }
 
 img.ozzy {
-        position: absolute;
-        top: 200px;
-        right: 200;
+        float: right;
     }
 
 
