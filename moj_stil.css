@@ -3,6 +3,14 @@ body {
         font-family: Arial, sans-serif;
 }
 
+h3.podnaslov1{
+        text-align: center;
+}
+
+li.natuknica1 {
+        left: 300px;
+}
+
 img.clanovi{
          position: absolute;
         top: 150px;
