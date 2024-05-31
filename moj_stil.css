@@ -10,11 +10,11 @@ h3.podnaslov1{
 li.natuknica1 {
         right: 300px;
 }
-
 img.clanovi{
-         position: absolute;
-        top: 150px;
-        right: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
 
         
 }
